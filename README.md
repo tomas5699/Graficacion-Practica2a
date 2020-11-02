@@ -21,4 +21,4 @@ parte del codigo donde se utilizo ciclos for para la creacion de este programa
 
  }
  #Ejecucion 
- 
+ ![Captura de pantalla (26)](https://user-images.githubusercontent.com/73785441/97922925-d3890d00-1d22-11eb-8f3f-36c6389e0338.png)
